@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudPad", "CloudPad\CloudPad.csproj", "{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudPadApi", "C:\Users\vital\source\repos\HandShakeApp\CloudPadApi\CloudPadApi.csproj", "{9FD15E76-8EF4-4980-995A-11CD2F100E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E376727-8C9C-45B7-8446-A1E58DA7FF0D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9FD15E76-8EF4-4980-995A-11CD2F100E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD15E76-8EF4-4980-995A-11CD2F100E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD15E76-8EF4-4980-995A-11CD2F100E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD15E76-8EF4-4980-995A-11CD2F100E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31771289-36F0-466B-9C8E-8E2821A5F972}
+	EndGlobalSection
+EndGlobal
